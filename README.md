@@ -20,20 +20,3 @@ from sklearn.linear_model import LinearRegression
 ```
 
   
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-  
-## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
